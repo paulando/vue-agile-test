@@ -10,4 +10,5 @@ This is the project you get when you run `gridsome create new-project`.
 
 1. `cd vue-agile-test` to open the folder
 2. `npm install` to install dependencies
-2. `gridsome develop` to start a local dev server at `http://localhost:8080`
+3. `gridsome develop` to start a local dev server at `http://localhost:8080`
+4. `gridsome build` to build project
