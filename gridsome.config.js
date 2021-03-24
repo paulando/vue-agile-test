@@ -6,8 +6,5 @@
 
 module.exports = {
   siteName: 'VUE AGILE TEST',
-  siteUrl: '/',
-  plugins: [
-    '@gridsome/plugin-sitemap',
-  ],
+  siteUrl: '/'
 }
