@@ -7,10 +7,6 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "@gridsome/plugin-critical": "^0.2.0",
-    "@gridsome/plugin-google-analytics": "^0.1.2",
-    "@gridsome/plugin-sitemap": "^0.4.0",
-    "@gridsome/source-wordpress": "^0.5.3",
     "gridsome": "^0.7.23",
     "vue-agile": "^1.1.3"
   },
