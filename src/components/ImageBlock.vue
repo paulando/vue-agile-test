@@ -2,7 +2,7 @@
     <figure :class="['ib',$props.classes]">
         <template v-if="$props.isLazy">
             <picture :style="imgMaxHeight" :class="$props.frame">
-                <img ref="image" v-lazy="$props.src" :src="thumbnail" :alt="$props.alt">
+                <img ref="image" :src="$props.src" :alt="$props.alt">
             </picture>
             <template v-if="$props.caption!==''">
                 <div :class="['img-caption', {'active': captionToggle}]">
